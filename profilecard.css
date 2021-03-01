@@ -1,0 +1,74 @@
+body {
+  background-image: url("secondone.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.card {
+  background-image: linear-gradient(#f4f9f9,#f1d1d0, #fbaccc);
+  margin: 150px 550px 150px 550px;
+  padding: 15px;
+  border: groove 6px rgb(219, 112, 112);
+}
+h1 {
+  color: #120078;
+  font-family: 'Great Vibes', cursive;
+  font-size: 50px;
+  text-shadow: 2px 2px white;
+}
+p {
+  color: #52057b;
+  font-family: 'Pacifico', cursive;
+}
+a {
+  color: #52057b;
+  padding: 10px;
+  text-decoration: none;
+}
+hr {
+  border: solid 8px #eff8ff;
+  border-top: none;
+  width: 150px;
+  margin: 10px auto 10px auto;
+  border-width: thin;
+}
+
+
+
+
+
+
+.btn {
+   background: #F63DCB;
+   background-image: -webkit-linear-gradient(top, #F63DCB, #1ED0A3);
+   background-image: -moz-linear-gradient(top, #F63DCB, #1ED0A3);
+   background-image: -ms-linear-gradient(top, #F63DCB, #1ED0A3);
+   background-image: -o-linear-gradient(top, #F63DCB, #1ED0A3);
+   background-image: -webkit-gradient(to bottom, #F63DCB, #1ED0A3);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Courier New;
+   font-size: 18px;
+   font-weight: 100;
+   padding: 17px;
+   -webkit-box-shadow: 1px 1px 20px 0 #DD380D;
+   -moz-box-shadow: 1px 1px 20px 0 #DD380D;
+   box-shadow: 1px 1px 20px 0 #DD380D;
+   text-shadow: -3px 6px 20px #DD380D;
+   border: solid #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   background: #1E62D0;
+   border: solid #CA00FF 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
