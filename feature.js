@@ -1,0 +1,1 @@
+alert("this is example of profile card component");
